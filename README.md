@@ -237,9 +237,15 @@ the current one.
 
 ## Notes on privacy and security
 
-This implementation introduces a variety of risks to your agentic execution, the most obvious of which is your inability to review and approve potentially risky behaviours.
+This implementation introduces a variety of risks to your agentic execution, the most obvious of which is your inability to review and approve potentially risky behaviors. 
 
 Some suggestions:
 
 1. All important accounts and platforms should not be accessible to this agent. You can use multi-factor methods (not SMS OTP) such as a dedicated app that only runs on a device not on that machine to provide an extra layer of defense here.
 2. You should set other security and safety boundaries around your agents, such as what information can or cannot be shared externally and both personal and work budgetary limits which cannot ever be exceeded.
+
+Please use this software with caution, it is not supported, and there are no guarantees or protections associated with this personal project. It is to be used at your own risk.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+LIMITATION OF LIABILITY. IN NO EVENT AND UNDER NO LEGAL THEORY, WHETHER IN TORT (INCLUDING NEGLIGENCE), CONTRACT, OR OTHERWISE, UNLESS REQUIRED BY APPLICABLE LAW (SUCH AS DELIBERATE AND GROSSLY NEGLIGENT ACTS) OR AGREED TO IN WRITING, SHALL ANY CONTRIBUTOR BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER ARISING AS A RESULT OF THIS LICENSE OR OUT OF THE USE OR INABILITY TO USE THE WORK
